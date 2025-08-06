@@ -1,4 +1,4 @@
-package com.vignesh.sample;
+package com.vignesh.sample.ex_01_RA_Basics;
 
 import io.restassured.RestAssured;
 

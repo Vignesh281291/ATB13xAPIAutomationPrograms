@@ -3,7 +3,7 @@
 <suite name="Rest Assured Learning ATB13x">
     <test verbose="2" name="C:/Users/Vihaana/IdeaProjects/ATB13xAPIAutomationPrograms">
         <classes>
-            <class name="com.vignesh.sample.ex_03_TestNG_AllureReport.TempTestNG">
+            <class name="com.vignesh.sample.ex_04_ResrAssured_HTTPMethods.POST.APITesting_Lab008_POST_NonBDDStyle">
             </class>
         </classes>
     </test>
