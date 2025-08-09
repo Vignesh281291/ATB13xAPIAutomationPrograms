@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Rest Assured Learning ATB13x" parallel="classes" thread-count="2">
+    <test verbose="2" name="C:/Users/Vihaana/IdeaProjects/ATB13xAPIAutomationPrograms">
+        <classes>
+            <class name="com.vignesh.sample.ex_05_TestNGExamples.Parallel.Class_Level.APITesting_ChromeTest"></class>
+            <class name="com.vignesh.sample.ex_05_TestNGExamples.Parallel.Class_Level.APITesting_FirefoxTest"></class>
+        </classes>
+    </test>
+</suite>

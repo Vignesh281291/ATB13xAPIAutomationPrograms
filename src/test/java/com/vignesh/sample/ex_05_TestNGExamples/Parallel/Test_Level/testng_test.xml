@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Rest Assured Learning ATB13x" parallel="tests" thread-count="3">
+    <test name="API">
+        <classes>
+            <class name="com.vignesh.sample.ex_05_TestNGExamples.Parallel.Test_Level.APITesting_APISmokeTest">
+            </class>
+        </classes>
+    </test>
+    <test name="DB">
+        <classes>
+            <class name="com.vignesh.sample.ex_05_TestNGExamples.Parallel.Test_Level.APITesting_DBSmokeTest">
+            </class>
+        </classes>
+    </test>
+    <test name="UI">
+        <classes>
+            <class name="com.vignesh.sample.ex_05_TestNGExamples.Parallel.Test_Level.APITesting_UISmokeTest">
+            </class>
+        </classes>
+    </test>
+</suite>
